@@ -1,0 +1,11 @@
+.link-items {
+    margin-top: 50px;
+}
+@media (min-width: 768px) {
+    .link-items {
+        margin-top: 0;
+    }
+}
+.card {
+    width: 18rem;
+}
